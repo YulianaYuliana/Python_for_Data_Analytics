@@ -53,7 +53,7 @@ Example of list comprehension with conditional expression:
 - The code block in each function starts with a colon and uses indentation
 - The function stops when there is a return [expression] statement that returns [the expression to the caller.
 - You can also make a function return no output with return none.  
-Example 1:
+Example 1:  
 ![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/2cfdb33b-33bc-44fe-a74d-11b6bfcab946)
 
 Example 2:  
