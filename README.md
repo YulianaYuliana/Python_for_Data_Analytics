@@ -39,3 +39,38 @@ Example 2:
 
 Example of list comprehension with conditional expression:  
 ![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/aacf39cd-90e8-4453-ade4-cdf8cf4d92b7)
+
+## Function
+- In mathematics, a function is a process that relates between an input and an output.
+- In Python, apart from these relational functions, functions are also a way to organize code - with the ultimate goal of code being reusable (reusability)
+- it is best if the function has only one specific use but can be reused
+- common functions are provided by Python
+- But we can always define our own functions  
+
+### Defining a Function
+- Functions are defined with the keyword def followed by the name of the function and its parameters in brackets ( )
+- Optionally, you can add a docstring – a documentation string that explains the context of the function.
+- The code block in each function starts with a colon and uses indentation
+- The function stops when there is a return [expression] statement that returns [the expression to the caller.
+- You can also make a function return no output with return none.  
+Example 1:
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/2cfdb33b-33bc-44fe-a74d-11b6bfcab946)
+
+Example 2:  
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/f3eda976-bf3c-4e51-b4f4-87000214a3ee)
+
+Another Example:  
+We want to create a function to calculate the area of a triangle  
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/f5dfac6a-bf50-4ae9-a7e1-47a3f8adc940)
+
+### Return
+The optional return statement symbolizes the return of values ​​from the Function to the calling code
+Example:  
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/539beb69-1ea0-44c3-9c75-ff43584e5ec1)
+
+### Function of Two Parameters
+Result 1:  
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/73fc9b51-5548-4950-aa9b-6a2f9b2ff717)
+
+Result 2:  
+![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/ffecb26c-9ad1-40e0-bc7e-c4fec0f3ed0c)
