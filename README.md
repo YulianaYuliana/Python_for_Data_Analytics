@@ -30,6 +30,6 @@ In a while statement, the else block will always be executed when the condition 
 ## List Comprehension
 - List comprehension in Python is an easy and compact syntax for creating a list from a string or another list.
 - It is a very concise way to create a new list by performing an operation on each item in the existing list.
-- List comprehension is considerably faster than processing a list using the for loop.
+- List comprehension is considerably faster than processing a list using the for loop. <br>
 Example:
 ![image](https://github.com/YulianaYuliana/Python_for_Data_Analytics/assets/146516342/4e88eb46-6c9d-42c0-a1fa-4b4b1e59e4b8)
